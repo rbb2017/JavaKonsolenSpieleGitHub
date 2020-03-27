@@ -2,8 +2,8 @@
 /**
  * Beschreiben Sie hier die Klasse Starter.
  * 
- * @author (Ihr Name) 
- * @version (eine Versionsnummer oder ein Datum)
+ * @author Wieners
+ * @version 2020-03-27-0001
  */
 
 public class Starter
